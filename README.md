@@ -1,1 +1,1 @@
-# nsurance-Claim-Prediction-
+# Insurance-Claim-Prediction-
